@@ -1,6 +1,6 @@
 **Transparent Calculator**
 
-A visually appealing, fully functional, and responsive calculator with a transparent design, created using HTML and CSS only.
+A visually appealing, fully functional, and responsive calculator with a transparent design, created using HTML and CSS.
 
 **Features**
 
