@@ -23,18 +23,22 @@ Future iterations can integrate JavaScript or other technologies for full intera
 
 *How to Use*
 Clone the repository:
-git clone 
+
+git clone https://kashavenisruthi.github.io/calculator/
 cd transparent-calculator
 
 Open index.html in any modern browser.
 
 Explore the visual design and layout of the calculator.
 
-##Future Plans##
+**Future Plans**
+
 Add JavaScript or other programming languages for arithmetic operations.
 
 Implement advanced features such as keyboard support, scientific functions, and error handling.
 
 Enhance accessibility for better usability with screen readers and other assistive technologies.
-*Contribution*
+
+**Contribution**
+
 Contributions are welcome! Feel free to suggest improvements or submit pull requests to make this project better.
