@@ -25,6 +25,7 @@ Future iterations can integrate JavaScript or other technologies for full intera
 Clone the repository:
 
 git clone https://github.com/KashaveniSruthi/calculator
+
 cd transparent-calculator
 
 Open index.html in any modern browser.
